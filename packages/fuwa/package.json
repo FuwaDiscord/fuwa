@@ -24,7 +24,7 @@
     "@types/ws": "8.5.5",
     "discord-api-types": "0.37.46",
     "lodash.snakecase": "4.1.1",
-    "ws": "8.13.0"
+    "ws": "8.17.1"
   },
   "devDependencies": {
     "@splatterxl/tsconfig": "1.1.1",
